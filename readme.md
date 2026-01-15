@@ -62,7 +62,7 @@ sw1 will be the switch that is on the left of the keypad when in use.
 
 <br>
 
-**step 4 (optional)* *
+***step 4 (optional)***
 
 tape wires or pins or rp2040 so there is no shorting in the circuits.
 
