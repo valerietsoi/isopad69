@@ -2,6 +2,8 @@
 
 "69" in name is only based on the keycap arrangement
 
+<img src="images/iso69_layout.png" alt="drawing" width="200"/>
+
 table of contents
 [toc]
 
@@ -37,19 +39,19 @@ table of contents
 
 
 
-*step 1*
+**step 1**
 
 insert the heatset inserts into the top case by using a soldering iron. fit switches onto the plate integrated top case.
 
 <br>
 
-*step 2*
+**step 2**
 
 solder wires onto the switches
 
 <br>
 
-*step 3*
+**step 3**
 
 solder wires onto the rp2040 zero. connections are as follows: 
 
@@ -60,13 +62,13 @@ sw1 will be the switch that is on the left of the keypad when in use.
 
 <br>
 
-*step 4 (optional)* 
+**step 4 (optional)* *
 
 tape wires or pins or rp2040 so there is no shorting in the circuits.
 
 <br>
 
-*step 5*
+**step 5**
 
 somehow make everything fit and secure the bottom case onto the top case with the four M2 screws.
 
@@ -79,6 +81,10 @@ somehow make everything fit and secure the bottom case onto the top case with th
 
 
 ## firmware
+
+Flash firmware as per usual.
+
+Bootloader magic is enabled on the provided vial firmware, just hold the left key when plugging in the pad, then you should be able to get into bootloader mode.
 
 
 
