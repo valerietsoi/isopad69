@@ -2,13 +2,16 @@
 
 "69" in name is only based on the keycap arrangement and does not actually have 69 keys (nor a 69%)
 
+<br>
+
 
 | | |
 | --- | --- |
 | <img src="images/iso69_layout.png" alt="drawing" width="400"/> ||
 | <img src="images/IMG_8968.png" alt="drawing" width="400"/> | <img src="images/IMG_8975.png" alt="drawing" width="400"/> |
 
- 
+<br>
+<br>
 
 
 table of contents
@@ -28,6 +31,7 @@ table of contents
  - `.uf2` is available under `/firmware`
 (tb updated)
 
+<br>
 
 
 ## build guide
