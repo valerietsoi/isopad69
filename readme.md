@@ -1,11 +1,32 @@
 <h1> macropad with 2 ISO enter keys</h1>
 
 "69" in name is only based on the keycap arrangement
+| | |
+| --- | --- |
+| <img src="images/iso69_layout.png" alt="drawing" width="200"/> ||
+| <img src="images/IMG_8968.png" alt="drawing" width="200"/> | <img src="images/IMG_8975.png" alt="drawing" width="200"/> |
 
-<img src="images/iso69_layout.png" alt="drawing" width="200"/>
+ 
+
 
 table of contents
 [toc]
+
+## usage
+
+- The macropad can be used with type-c cable that supports data. This includes usb A-C or usb C-C cables. 
+<br>
+
+- To configure your macropad, go to the websie [vial.rocks](https://vial.rocks/), or you can use the offline software which can be downloaded at https://get.vial.today/
+
+<br>
+
+## firmware
+
+ - `.uf2` is available under `/firmware`
+(tb updated)
+
+
 
 ## build guide
 
