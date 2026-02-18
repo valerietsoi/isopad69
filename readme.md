@@ -14,8 +14,6 @@
 <br>
 
 
-table of contents
-[toc]
 
 ## usage
 
